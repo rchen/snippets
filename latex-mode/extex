@@ -1,0 +1,18 @@
+# -*- mode: snippet -*-
+# name: extex
+# contributor: Grant Chen
+# group: 
+# key: extex
+# expand-env: ((yas-indent-line 'fixed) (yas-wrap-around-region 'nil))
+# --
+\documentclass{article}
+
+\title{$0}
+\author{@Grant}
+\date{\today}
+
+\begin{document}
+\section{}
+\label{sec:This is the body of our first section}
+我是學成
+\end{document}
